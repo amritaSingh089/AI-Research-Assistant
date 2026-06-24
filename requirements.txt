@@ -1,0 +1,4 @@
+tavily-python
+python-dotenv
+google gemini ai
+
