@@ -1,0 +1,2 @@
+TAVILY_API_KEY=tvly-dev-1Czq3k-***********************************
+GEMINI_API_KEY=AQ.Ab8RN6IGppVY3rEtJ6JF_f_-************************
